@@ -1,1 +1,2 @@
-var foo = "foo";
+var foo = "poop";
+var bar = "bar";
